@@ -8,7 +8,7 @@ const app = express();
 const port = 80;
 
 const corsOptions = {
-    origin: 'https://64364ad809e2c75725f2dade--relaxed-clafoutis-79c62a.netlify.app/',
+    origin: 'https://64364babb4cf745b683f6695--relaxed-clafoutis-79c62a.netlify.app/',
     credentials: true,
 };
 app.use(cors(corsOptions));
